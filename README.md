@@ -1,5 +1,4 @@
-#Remindr
-# Reminder App
+# Remindr- Reminder App
 The Reminder App is a Python application built using the tkinter library for creating a simple GUI, schedule library for scheduling tasks, and plyer library for displaying notifications. This app allows users to set reminders throughout the day and also includes a Pomodoro timer feature for improved productivity.
 
 Features
@@ -35,6 +34,6 @@ Install required libraries using pip:
 pip install tk schedule plyer
 
 Run the Reminder App script:
-python reminder_app.py
+python remindr.py
 
 Enjoy using the Reminder App to stay organized and boost your productivity!
