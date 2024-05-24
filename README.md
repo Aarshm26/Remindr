@@ -27,10 +27,13 @@ Click on the "Remove Selected" button to delete the chosen reminder.
 Closing the App:
 
 The app will automatically save scheduled reminders when closed using the window close button.
+
 Installation
 Ensure you have Python 3 installed on your system.
+
 Install required libraries using pip:
 pip install tk schedule plyer
+
 Run the Reminder App script:
 python reminder_app.py
 
